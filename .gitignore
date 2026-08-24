@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded dataset
+data/
+
+# Trained model files
+models/*
+!models/.gitkeep
