@@ -2,7 +2,12 @@
 
 A machine-learning application that predicts the appropriate support queue and priority for customer-support tickets, while using confidence-based human review for uncertain decisions.
 
+## Live Demo
+
+[Support Ticket Triage application](https://support-ticket-triage-haidencz.streamlit.app)
+
 ## Overview
+
 
 This project uses natural-language processing to analyse a ticket's subject and description. Two independently trained models predict:
 
