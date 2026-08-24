@@ -223,3 +223,5 @@ data/
 # Trained model files
 models/*
 !models/.gitkeep
+!models/queue_model.joblib
+!models/priority_model.joblib
